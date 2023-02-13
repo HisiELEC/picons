@@ -1,3 +1,6 @@
-# kodi_picons
-picons para os canais de tv para uso no pixel/kodi
+# Picons
+
+Picons para LibreELEC
+
+Originalmente criado por @josemoraes99
 
